@@ -17,4 +17,4 @@ function number_cardinality(int)
     }       
 }
 
-console.log(number_cardinality(103));
+module.exports = number_cardinality;

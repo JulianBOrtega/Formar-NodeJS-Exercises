@@ -15,4 +15,4 @@ function fizz_buzz(N)
     return array;
 }
 
-console.log(fizz_buzz(15));
+module.exports = fizz_buzz;

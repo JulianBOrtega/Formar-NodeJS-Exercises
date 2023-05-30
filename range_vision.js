@@ -26,4 +26,4 @@ function range_vision(input)
     return lowestValue.digit == 1 ? true : false;
 }
 
-console.log(range_vision(34315));
+module.exports = range_vision;
